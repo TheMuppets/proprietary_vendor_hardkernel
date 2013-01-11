@@ -29,15 +29,7 @@ PRODUCT_COPY_FILES += \
     vendor/hardkernel/odroidu2/proprietary/usr/keylayout/odroid-keypad.kl:system/usr/keylayout/odroid-keypad.kl \
     vendor/hardkernel/odroidu2/proprietary/usr/keychars/odroid-keypad.kcm:system/usr/keychars/odroid-keypad.kcm \
     vendor/hardkernel/odroidu2/proprietary/app/ODROID.apk:system/app/ODROID.apk \
-    vendor/hardkernel/odroidu2/proprietary/app/DicePlayer_2_0_18.apk:system/app/DicePlayer_2_0_18.apk \
     vendor/hardkernel/odroidu2/proprietary/lib/libSoundTouch.so:system/lib/libSoundTouch.so \
-    vendor/hardkernel/odroidu2/proprietary/lib/libdice_ics.so:system/lib/libdice_ics.so \
-    vendor/hardkernel/odroidu2/proprietary/lib/libdice_jb.so:system/lib/libdice_jb.so \
-    vendor/hardkernel/odroidu2/proprietary/lib/libdice_loadlibrary.so:system/lib/libdice_loadlibrary.so \
-    vendor/hardkernel/odroidu2/proprietary/lib/libdice_software.so:system/lib/libdice_software.so \
-    vendor/hardkernel/odroidu2/proprietary/lib/libdice_software_ics.so:system/lib/libdice_software_ics.so \
-    vendor/hardkernel/odroidu2/proprietary/lib/libdice_software_jb.so:system/lib/libdice_software_jb.so \
-    vendor/hardkernel/odroidu2/proprietary/lib/libffmpeg_dice.so:system/lib/libffmpeg_dice.so \
     vendor/hardkernel/odroidu2/proprietary/lib/egl/libEGL_mali.so:system/lib/egl/libEGL_mali.so \
     vendor/hardkernel/odroidu2/proprietary/lib/egl/libGLESv1_CM_mali.so:system/lib/egl/libGLESv1_CM_mali.so \
     vendor/hardkernel/odroidu2/proprietary/lib/egl/libGLESv2_mali.so:system/lib/egl/libGLESv2_mali.so \
